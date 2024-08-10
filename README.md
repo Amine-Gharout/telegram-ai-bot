@@ -25,7 +25,7 @@ Follow these steps to set up and run the bot:
 
 6. Run the Bot
 - Ensure that the configuration files and app.py are in the same directory.
-- Run app.py using Python:
+- Run telegram_bot.py using Python:
 
 7. Interact with the Bot
 - Search for your bot on Telegram using the username you provided.
