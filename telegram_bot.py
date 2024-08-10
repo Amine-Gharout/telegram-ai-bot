@@ -1,4 +1,4 @@
-from help_ import chat_session
+from gmini_api_app import chat_session
 from typing import Final
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
