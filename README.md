@@ -5,7 +5,7 @@ This project utilizes the Telegram Bot API and Google Gemini API to create an in
 Setup Instructions
 Follow these steps to set up and run the bot:
 
-1.Installing pachages:
+1. Installing pachages:
 - "ctrl" + 'R' and write "cmd'.
 - Write 'pip install google-generativeai" and click enter, wait until the instalation complet.
 - write 'pip install python-telegram-bot', enter, and wait.
