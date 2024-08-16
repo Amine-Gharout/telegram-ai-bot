@@ -25,9 +25,10 @@ Follow these steps to set up and run the bot:
 - After that just copy the API key
 
 4. Configure the Bot
-- Open the files and replace placeholders with your API tokens:
+- Open the files and replace placeholders(Comments) with your API tokens:
 - Paste the Telegram bot token into the appropriate file.
 - Paste the Google Gemini API key into the appropriate file.
+- Check the mood settings in the 'gmini_api_app.py'.
 
 5. Run the Bot
 - Ensure that the configuration files and app.py are in the same directory.
