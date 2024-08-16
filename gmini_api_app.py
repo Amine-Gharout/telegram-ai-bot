@@ -16,12 +16,12 @@ model = genai.GenerativeModel(
     model_name="gemini-1.5-pro",
     generation_config=generation_config,
     system_instruction='''
-    #HOW YOU WANT YOU MODEL TO BE ,,,EX:
+    #HOW YOU WANT YOU MODEL TO BE OR TO SPEAK AND ANSWER QUESTIONS ,,,EX:
 
 
-    #speak like a teen .
-    #and use  jokes and symbols,emojis.
-    #be helpful and smart when talking.
+    speak like a teen .
+    and use  jokes and symbols,emojis.
+    be helpful and smart when talking.
 
 
     ''',
