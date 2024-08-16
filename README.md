@@ -31,8 +31,7 @@ Follow these steps to set up and run the bot:
 - Search for your bot on Telegram using the username you provided.
 - Start a chat with your bot to interact with it.
 
-Troubleshooting:
-If you encounter any issues, check the following:
--Verify that your API keys are correctly pasted and valid.
--Ensure that all required libraries are installed.
--Review any error messages for clues and consult the Telegram Bot API documentation and Google Gemini API documentation for more information.
+99. Troubleshooting:
+- Verify that your API keys are correctly pasted and valid.
+- Ensure that all required libraries are installed.
+- Review any error messages for clues and consult the Telegram Bot API documentation and Google Gemini API documentation for more information.
