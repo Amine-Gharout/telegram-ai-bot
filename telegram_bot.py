@@ -7,11 +7,11 @@ bot_username: Final = '@user_name'  #user_name
 
 
 async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_text('Welcom Back')
+    await update.message.reply_text('Welcome Back')
 
 
 async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_text('Akho dagi s l anglis can i yfehhem wagi')
+    await update.message.reply_text('So, this is an AI telegram Bot')
 
 
 def handle_response(text: str):
